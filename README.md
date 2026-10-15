@@ -18,15 +18,15 @@ StockWise is a desktop inventory management project built to demonstrate practic
 
 ## Features
 
-- **Product management:** Add, update, and delete product records.
-- **Persistent storage:** Store inventory data in an SQLite database.
-- **Inventory dashboard:** View product counts and total stock quantity.
-- **Product search:** Search inventory records.
-- **Low-stock monitoring:** Identify products that need restocking.
-- **Stock movement history:** Review recorded stock changes.
-- **CSV exports:** Export inventory data and low-stock reports.
-- **Input validation:** Validate product details and numeric values.
-- **Login screen:** Access the dashboard through a login form.
+- **Product Management:** Add, update, and delete inventory products.
+- **Persistent Data Storage:** Store product records in a SQLite database.
+- **Inventory Dashboard:** View total product count and total stock quantity.
+- **Product Search:** Search for products in the inventory.
+- **Low-Stock Monitoring:** Identify products that may need restocking.
+- **Stock Movement History:** Track recorded stock increases and reductions.
+- **CSV Export:** Export inventory data and low-stock reports.
+- **Input Validation:** Check required fields and validate quantity and price entries.
+- **Login Screen:** Access the dashboard through the application login form.
 
 ## Technologies Used
 
