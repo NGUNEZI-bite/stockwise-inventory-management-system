@@ -1,7 +1,13 @@
 # StockWise Inventory Management System
 
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-Windows_Forms-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![SQLite](https://img.shields.io/badge/Database-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Platform](https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
 A C# Windows Forms desktop application for managing inventory, tracking stock movements, identifying low-stock items, and exporting inventory reports using SQLite.
 ![StockWise Inventory Management System Dashboard](screenshots/dashboard.png)
+
 
 *The StockWise dashboard showing product inventory, stock movement history, and stock monitoring features.*
 
