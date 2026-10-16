@@ -102,6 +102,26 @@ These credentials are for demonstration only and should not be used in a product
 
 Portfolio project — features and documentation are being refined.
 
+## Getting Started
+
+### Prerequisites
+
+- Windows 10 or later
+- Visual Studio 2022 or a compatible version with the .NET desktop development workload
+- Git (optional, for cloning the repository)
+
+### Installation
+
+1. Clone or download this repository.
+2. Open `StockWiseInventorySystem.slnx` in Visual Studio, or open the `.csproj` file if your Visual Studio version does not support `.slnx`.
+3. Allow Visual Studio to restore the project dependencies.
+4. Build the project using **Build > Build Solution**.
+5. Run the application using **F5** or **Debug > Start Debugging**.
+
+### Database
+
+The application uses SQLite to store inventory records. The database is created by the application when its database initialization code runs. Keep the generated database file in the location expected by the application.
+
 ## Author
 
 **NGUNEZI-bite**
