@@ -1,1 +1,19 @@
+# Visual Studio files
+.vs/
 
+# Build output
+[Bb]in/
+[Oo]bj/
+
+# User-specific files
+*.user
+*.suo
+
+# Temporary files
+*.tmp
+*.log
+
+# Local SQLite database
+*.db
+*.db-shm
+*.db-wal
