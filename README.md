@@ -37,6 +37,22 @@ StockWise is a desktop inventory management project built to demonstrate practic
 - Visual Studio
 - Git and GitHub
 
+## Technical Skills Demonstrated
+
+- **C# and Object-Oriented Programming:** Application logic, classes, methods, and event-driven programming.
+- **Windows Forms:** Building a graphical desktop interface and handling user interactions.
+- **SQL and SQLite:** Creating database tables and performing data operations using parameterized queries.
+- **CRUD Operations:** Creating, reading, updating, and deleting inventory records.
+- **Input Validation:** Checking required fields and validating numeric values.
+- **Data Handling:** Displaying database records in a DataGridView and exporting reports to CSV.
+- **Debugging and Testing:** Identifying and resolving issues during application development.
+
+## Developer Learning Outcomes
+
+This project demonstrates practical experience connecting a desktop application to a relational database, implementing inventory workflows, handling user input, and organising application logic into separate classes.
+
+*Note: The skills listed above should reflect functionality the developer has implemented and tested in the project.*
+
 ## Getting Started
 
 ### Prerequisites
